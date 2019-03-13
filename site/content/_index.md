@@ -1,6 +1,6 @@
 ---
 title: 'Great coffee '
-subtitle: 'Support sustainable farming '
+subtitle: 'Support sustainable farming, drink coffee '
 image: /img/getty_500740897_200013331653767347294_333325.jpg
 blurb:
   heading: Why coffee
