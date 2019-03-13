@@ -1,7 +1,7 @@
 ---
 title: Great coffee with a conscience
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/getty_500740897_200013331653767347294_333325.jpg
 blurb:
   heading: Why drink coffee
   text: >-
