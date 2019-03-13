@@ -5,8 +5,8 @@ contact_entries:
   - heading: Location
     text: |-
       3153 Lynn Avenue,
-       South San Francisco,
-       California 94080
+      South San Francisco,
+      California 94080
   - heading: Working hours
     text: |-
       Mon – Sat: 9AM – 7PM 
