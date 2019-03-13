@@ -7,7 +7,7 @@ contact_entries:
   - heading: Working hours
     text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
   - heading: Call Us
-    text: 09777 4545555
+    text: 09777000 4545555
 ---
 
 We’d love to get in touch with you and hear your ideas and
