@@ -8,7 +8,9 @@ contact_entries:
        South San Francisco,
        California 94080
   - heading: Working hours
-    text: 'Mon – Sat: 9AM – 7PM We’re closed on Sundays'
+    text: |-
+      Mon – Sat: 9AM – 7PM 
+      We’re closed on Sundays
   - heading: 'Call Us '
     text: '0000000000'
 ---
