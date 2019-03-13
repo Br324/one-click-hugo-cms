@@ -3,7 +3,7 @@ title: 'Great coffee '
 subtitle: 'Support sustainable farming '
 image: /img/getty_500740897_200013331653767347294_333325.jpg
 blurb:
-  heading: Why drink coffee
+  heading: Why coffee
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
